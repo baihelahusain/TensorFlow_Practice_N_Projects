@@ -1,6 +1,6 @@
 # 📘 Deep Learning Projects – NLP & Time Series Forecasting  
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)  
+![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)  
 ![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-green.svg)  
 
@@ -55,4 +55,5 @@ This repository contains two major **Deep Learning** projects implemented in **T
 1. Clone the repository:  
    ```bash
    git clone https://github.com/your-username/deep-learning-projects.git
+
    cd deep-learning-projects
